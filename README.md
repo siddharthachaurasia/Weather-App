@@ -20,9 +20,9 @@
 - **JavaScript**
 - **OpenWeatherMap API**
 
-## 🚀 Screenshot
+## 📸 Screenshot
 
 ![Weathro App](https://github.com/user-attachments/assets/a25d33b2-0230-48b5-a2c9-71eefb17b95c)
 
-
+**Made with ❤️ by Siddhartha**
 
