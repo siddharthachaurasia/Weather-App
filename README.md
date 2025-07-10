@@ -20,13 +20,9 @@
 - **JavaScript**
 - **OpenWeatherMap API**
 
-## 🚀 Getting Started
+## 🚀 Screenshot
 
-To run the project locally:
+![Weathro App](https://github.com/user-attachments/assets/a25d33b2-0230-48b5-a2c9-71eefb17b95c)
 
-1. **ScreenShot**
-   ![image](https://github.com/user-attachments/assets/152bbb49-de3d-4caa-982c-66085bf7351f)
 
-   ```bash
-   git clone https://github.com/siddharthachaurasia/weathro.git
-   cd weathro
+
