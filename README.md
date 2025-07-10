@@ -24,7 +24,9 @@
 
 To run the project locally:
 
-1. **Clone the repository**
+1. **ScreenShot**
+   ![image](https://github.com/user-attachments/assets/152bbb49-de3d-4caa-982c-66085bf7351f)
+
    ```bash
    git clone https://github.com/siddharthachaurasia/weathro.git
    cd weathro
